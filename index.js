@@ -4,6 +4,6 @@ module.exports = {
     twitter: "https://twitter.com/WillCode2Surf",
     github: "https://github.com/willCode2Surf",
     dev: {
-      to: "oops"
+      to: "https://dev.to/willcode"
     }
   };
